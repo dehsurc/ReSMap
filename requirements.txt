@@ -1,0 +1,11 @@
+# Install PyTorch, mmcv-full, mmdet and mmdet3d first (see README).
+nuscenes-devkit
+numpy==1.23.5
+Shapely==1.8.5
+pyquaternion
+scipy
+opencv-python
+einops==0.6.1
+prettytable
+yapf==0.40.1
+setuptools==59.5.0

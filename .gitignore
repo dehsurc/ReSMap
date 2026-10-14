@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# data, checkpoints and outputs
+/datasets
+/checkpoints
+work_dirs/
+.gt_cache/
+.dist_test/
+*.pth
+*.log
+*.log.json
