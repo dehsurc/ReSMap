@@ -1,4 +1,4 @@
-[![NeurIPS 2026](https://img.shields.io/badge/NeurIPS-2026-blue.svg)](https://neurips.cc/virtual/2026/loc/sydney/poster/149564) [![Paper](https://img.shields.io/badge/Paper-PDF-red.svg)](https://dehsurc.github.io/resmap-page/assets/paper.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://dehsurc.github.io/resmap-page/)
+[![NeurIPS 2026](https://img.shields.io/badge/NeurIPS-2026-blue.svg)](https://neurips.cc/virtual/2026/loc/sydney/poster/149564) [![arXiv](https://img.shields.io/badge/arXiv-2611.04352-b31b1b.svg)](https://arxiv.org/abs/2611.04352) [![Paper](https://img.shields.io/badge/Paper-PDF-red.svg)](https://dehsurc.github.io/resmap-page/assets/paper.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://dehsurc.github.io/resmap-page/)
 
 # ReSMap: Recasting Satellite Priors for Robust and Accurate Online HD Map Construction
 
@@ -8,6 +8,7 @@
 
 ## News
 
+- `2026.11.04` The paper is available on [arXiv](https://arxiv.org/abs/2611.04352).
 - `2026.10.13` Training and evaluation code and the checkpoint are released.
 - `2026.09.28` ReSMap is accepted to **NeurIPS 2026**. 🎉
 
